@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+output-full/
+
+dist/
+dist-api-fix/
+output-*/
+*.zip
+.env
+.env.*

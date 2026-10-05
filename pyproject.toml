@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools==68.2.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "local-price-monitor"
+version = "0.1.0"
+description = "Saved provider HTML/JSON to normalized tariffs with generated Ollama adapters"
+requires-python = ">=3.11"
+dependencies = ["pyarrow==25.0.1"]
+
+[project.scripts]
+price-monitor = "price_monitor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

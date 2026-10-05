@@ -1,0 +1,2 @@
+# Runtime dependency for Parquet input; CSV/JSON processing uses Python stdlib.
+pyarrow==25.0.1

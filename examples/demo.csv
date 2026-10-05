@@ -1,0 +1,10 @@
+provider,city,url,timestamp,html
+demo,City01,https://example.invalid/01,2026-09-16,"<html><h2>Тариф Дома 100</h2><p>100 Мбит/с</p><p>500 руб./мес.</p></html>"
+demo,City02,https://example.invalid/02,2026-09-16,"<html><h2>Тариф Дома 200</h2><p>200 Мбит/с</p><p>600 руб./мес.</p></html>"
+demo,City03,https://example.invalid/03,2026-09-16,"<html><h2>Тариф Дома 300</h2><p>300 Мбит/с</p><p>700 руб./мес.</p></html>"
+demo,City04,https://example.invalid/04,2026-09-16,"<html><h2>Тариф Дома 400</h2><p>400 Мбит/с</p><p>800 руб./мес.</p></html>"
+demo,City05,https://example.invalid/05,2026-09-16,"<html><h2>Тариф Дома 500</h2><p>500 Мбит/с</p><p>900 руб./мес.</p></html>"
+demo,City06,https://example.invalid/06,2026-09-16,"<html><h2>Тариф Дома 600</h2><p>600 Мбит/с</p><p>1000 руб./мес.</p></html>"
+demo,City07,https://example.invalid/07,2026-09-16,"<html><h2>Тариф Дома 700</h2><p>700 Мбит/с</p><p>1100 руб./мес.</p></html>"
+demo,City08,https://example.invalid/08,2026-09-16,"<html><h2>Тариф Дома 800</h2><p>800 Мбит/с</p><p>1200 руб./мес.</p></html>"
+demo,City09,https://example.invalid/09,2026-09-16,"<html><h2>Тариф Дома 900</h2><p>900 Мбит/с</p><p>1300 руб./мес.</p></html>"

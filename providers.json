@@ -1,0 +1,13 @@
+{
+  "mts": "data/mts.csv",
+  "beeline": "data/beeline.csv",
+  "rtk": "data/rtk.csv",
+  "letai": "data/letai.csv",
+  "intersvyaz": "data/intersvyaz.csv",
+  "profintel": "data/profintel.csv",
+  "sibset": "data/sibset.csv",
+  "ttk": "data/ttk.csv",
+  "wifire": "data/wifire.csv",
+  "wifireru": "data/wifireru.csv",
+  "ones": "examples/ones.parquet"
+}
