@@ -11,3 +11,8 @@ output-*/
 *.zip
 .env
 .env.*
+
+tests/
+qa-*/
+BUILD_INFO.md
+FIX_*.md
